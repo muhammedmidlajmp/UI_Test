@@ -1,11 +1,7 @@
-import 'package:fan_carousel_image_slider/fan_carousel_image_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:test_green_tumps/model/core/const.dart';
 import 'package:test_green_tumps/view/Plantview/PlantViewPage.dart';
-import 'package:test_green_tumps/view/cartpage/cartpage.dart';
 import 'package:test_green_tumps/view/screen_one/widget/bottom_avatar.dart';
-import 'package:test_green_tumps/view/screen_one/widget/sildeble_containers.dart';
 import 'package:test_green_tumps/view/screen_one/widget/top_tab_button.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 

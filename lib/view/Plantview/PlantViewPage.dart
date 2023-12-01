@@ -41,7 +41,7 @@ class ScreenTwo extends StatelessWidget {
           InkWell(
               onTap: () {
                 Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => CartPage()));
+                    MaterialPageRoute(builder: (context) => const CartPage()));
               },
               child: const BottomCard()),
           10.heightBox
